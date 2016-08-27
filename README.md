@@ -36,3 +36,5 @@ And run the storybook
 ```
 npm run storybook
 ```
+
+![Screenshot](docs/screenshot.png)
